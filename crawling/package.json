@@ -22,6 +22,6 @@
     "phantomjs": "^2.1.7",
     "request": "^2.88.2",
     "selenium-webdriver": "^3.6.0",
-    "xlsx": "^0.16.9"
+    "xlsx": "^0.17.0"
   }
 }
